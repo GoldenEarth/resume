@@ -12,32 +12,38 @@
 # 自我介绍
 > 我是一位热爱学习，研究和分享不同工具、技术和思路的工程师，通过分享与学习，极力的推进自己与团队成员一起学习新知识，以便在不同场景下选择更好的解决方案，快速的解决问题。
 
-> 同时我拥有不同领域（电信BOSS，金融支付，GIS，物联网，农业，教育，大数据，警务云，宠物Saas）的业务产品经验，有前端，后端，数据库，运维配管，产品设计和基础UI等工作经验，这令我在工作中可以更好的协调团队之间的各种问题，减少沟通成本。
+> 同时我拥有不同领域（电信BOSS，金融支付，GIS，物联网，农业，教育，大数据，警务云，宠物Saas，票税协同）的业务产品经验，有前端，后端，数据库，运维配管，产品设计和基础UI等工作经验，这令我在工作中可以更好的协调团队之间的各种问题，减少沟通成本。
 # 技能清单
 > 以下为我熟练使用和了解的技能
 - 开发语言：Js/Ts/Java/PHP/Go
-- 前端框架：Angular2+/React/Vue/Redux/Dva
+- 前端框架：Angular2+/React/Vue/Redux/Dva/Hox
 - 界面框架：MaterialUI/Antd/ElementUI/Bourbon
 - 数据可视化：AntV/D3.js/ECharts
 - 后端框架：Spring Cloud/Koa/Leafjs/Nestjs/Egg.js/Express/Lavarel/Gin
-- 小程序框架：Wepy/Taro
-- 工程化：Bower/Gulp/Webpack/Rollup/Parcel/Umi/Roadhog/Fis/Gradle/Maven/PM2
-- 数据库相关：MySQL/Tidb/MongoDB/OrientDB/FoundationDB/OpentsDB/Redis
-- 版本管理、文档和自动化部署工具：Svn/Git/Phabricator/Jenkins/Drone
-- 容器技术：Docker/Kubernetes/Rancher
-- 协议：Http/Websocket/Rpc/Grpc/MQTT/Rtmp/Hls
+- 小程序框架：Wepy/Taro/Remax/Rax
+- 工程化：Bower/Gulp/Webpack/Rollup/Parcel/Umi/Vitejs/Roadhog/Fis/Gradle/Maven/PM2
+- 数据库相关：MySQL/Tidb/Postgresql/MongoDB/OrientDB/FoundationDB/OpentsDB/Redis
+- 版本管理、文档和自动化部署工具：Svn/Git/Phabricator/Jenkins/Drone/Yapi
+- 容器技术：Docker/Kubernetes/Rancher/Choerodon
+- 协议：Http/Websocket/Restful/Rpc/Grpc/MQTT/Rtmp/Hls
 - 地理信息：GeoServer/ArcGIS/Openlayers/BMap/AMap
 - 物联网：Arduino/RasberryPi/Esp32
 - 开发环境：MacOs/Vscode/Aflred/Dash/SnippetsLab/Postman/Charles
+- 产品设计：Axure/Mockplus/Mockingbot/xiaopiu/Sketch/Photoshop
 ## 开源项目
   - [LeafJs](https://github.com/leafjs/leaf)：Leafjs is Koa Framework Suite based on koala-puree, HTTP/2 and ES6 Module ready.
 ## 演讲和讲义
+  - 2020 [用户登录知多少](https://docs.qq.com/slide/DSlBCVXpZRGduRGFB)
   - 2015 [前端技术变革与创新](https://docs.qq.com/slide/DSkFYVURGaVVBV1Fx)
   - 2012 [Android基础开发技术介绍](https://docs.qq.com/slide/DSldJVVF6VE9WZktv)
   - 2011 [Flex技术介绍](https://docs.qq.com/slide/DSmVpUEJEclpEWkhv)
   - 2010 [基于ArcGIS的Flex地图API开发介绍](https://docs.qq.com/slide/DSkl1RFJ0eFRnYlBa)
 # 工作经历
-## 新智认知新氦数据 （ 2016年12月 ~ 至今 ）
+## 上海云励科技有限公司（票易通） （ 2019年10月 ~ 至今 ）
+  > 担任架构师职位，主要工作有团队成员的招聘面试，技术方案的调研的引进，技术选型，指导团队成员使用特定技术完成迭代任务，管理日常开发过程中的CodeReview，Merge PR，Release Tag等。
+### 票易通平台 
+  - 参与发票协同平台日常的开发迭代工作，参与了税改，vat2.0,专票电子化等重大升级的开发工作，参与认证中台服务的开发工作，公司计费系统的开发工作，全链路监控（skywalking+elk）的搭建和二次开发等工作。
+## 新智认知新氦数据 （ 2016年12月 ~ 2019年10月 ）
   > 担任前端Leader职位，主要工作有团队成员的招聘面试，技术方案的调研的引进，技术选型，指导团队成员使用特定技术完成迭代任务，管理日常开发过程中的CodeReview，Merge PR，Release Tag等。
 ### 新智新氦应用平台 
   - 基于Kubernetes之上的容器管理平台，包含了Kubernetes的各种管理功能的操作和集成了主流大数据组件，如ELK,Zipkin, Prometheus,Hadoop，zookeeper，kafka，druid，spark等预置应用，提供对集群资源管理和编排，命名空间和应用权限等管理配置等。
