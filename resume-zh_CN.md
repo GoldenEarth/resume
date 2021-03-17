@@ -15,17 +15,16 @@
 > 同时我拥有不同领域（电信BOSS，金融支付，GIS，物联网，农业，教育，大数据，警务云，宠物Saas，票税协同）的业务产品经验，有前端，后端，数据库，运维配管，产品设计和基础UI等工作经验，这令我在工作中可以更好的协调团队之间的各种问题，减少沟通成本。
 # 技能清单
 > 以下为我熟练使用和了解的技能
-- 开发语言：Js/Ts/Java/PHP/Go
-- 前端框架：Angular2+/React/Vue/Redux/Dva/Hox
+- 开发语言：Js/Ts/Java/PHP
+- 前端框架：Angular/React/Vue/Redux/Dva/Hox
 - 界面框架：MaterialUI/Antd/ElementUI/Bourbon
 - 数据可视化：AntV/D3.js/ECharts
-- 后端框架：Spring Cloud/Koa/Leafjs/Nestjs/Egg.js/Express/Lavarel/Gin
-- 小程序框架：Wepy/Taro/Remax/Rax
-- 工程化：Bower/Gulp/Webpack/Rollup/Parcel/Umi/Vitejs/Roadhog/Fis/Gradle/Maven/PM2
-- 数据库相关：MySQL/Tidb/Postgresql/MongoDB/OrientDB/FoundationDB/OpentsDB/Redis
-- 版本管理、文档和自动化部署工具：Svn/Git/Phabricator/Jenkins/Drone/Yapi
-- 容器技术：Docker/Kubernetes/Rancher/Choerodon
-- 协议：Http/Websocket/Restful/Rpc/Grpc/MQTT/Rtmp/Hls
+- 后端框架：Spring Cloud/Koa/Nestjs/Lavarel
+- 小程序框架：Taro/Remax/Kbone
+- 工程化：Bower/Gulp/Webpack/Rollup/Umi/Vitejs/Roadhog/Fis/Gradle/Maven/PM2
+- 数据库相关：MySQL/Tidb/Postgresql/MongoDB/OrientDB/Redis
+- 版本管理、文档和自动化部署工具：Svn/Git/Yapi
+- Devops：Docker/Kubernetes/Rancher/Choerodon/Phabricator/Jenkins
 - 地理信息：GeoServer/ArcGIS/Openlayers/BMap/AMap
 - 物联网：Arduino/RasberryPi/Esp32
 - 开发环境：MacOs/Vscode/Aflred/Dash/SnippetsLab/Postman/Charles
